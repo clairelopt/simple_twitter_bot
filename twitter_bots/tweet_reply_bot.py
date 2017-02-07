@@ -78,10 +78,10 @@ for user in twitter_users:
                 print(new_tweet)
 
                 # Post the new tweet to twitter if possible
-                try:
-                    api.update_status(new_tweet)
+                # try:
+                #     api.update_status(new_tweet)
+                #
+                # except Exception as e:
+                #     print("error: " + str(e))
 
-                except Exception as e:
-                    print("error: " + str(e))
-            
-            sleep(100)
+            # sleep(100)

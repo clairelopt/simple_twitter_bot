@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d60ee4e1-48b7-4e7d-9baa-064ed27b5a35" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tweet_reply_bot.py" afterPath="$PROJECT_DIR$/tweet_reply_bot.py" />
+      <change type="MOVED" beforePath="$USER_HOME$/github_repos/simple_twitter_bot/.idea/simple_twitter_bot.iml" afterPath="$USER_HOME$/github_repos/simple_twitter_bot/.idea/ds-projects.iml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/github_repos/simple_twitter_bot/.idea/.name" afterPath="$USER_HOME$/github_repos/simple_twitter_bot/.idea/.name" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/github_repos/simple_twitter_bot/.idea/workspace.xml" afterPath="$USER_HOME$/github_repos/simple_twitter_bot/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/github_repos/simple_twitter_bot/tweet_reply_bot.py" afterPath="$USER_HOME$/github_repos/simple_twitter_bot/tweet_reply_bot.py" />
     </list>
     <ignored path="simple_twitter_bot.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,34 +26,40 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="tweet_reply_bot.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tweet_reply_bot.py">
+      <file leaf-file-name="spacy_test.py" pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/github_repos/ds-projects/NLP/spacy_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.75524473">
-              <caret line="85" column="12" selection-start-line="85" selection-start-column="12" selection-end-line="85" selection-end-column="12" />
-              <folding>
-                <element signature="e#31#44#0" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/github_repos/simple_twitter_bot" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/tweet_reply_bot.py" />
+        <option value="$USER_HOME$/github_repos/simple_twitter_bot/.gitignore" />
+        <option value="$USER_HOME$/github_repos/simple_twitter_bot/tweet_reply_bot.py" />
+        <option value="$USER_HOME$/github_repos/ds-projects/NLP/spacy_test.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="51" />
-    <option name="y" value="47" />
+    <option name="x" value="60" />
+    <option name="y" value="37" />
     <option name="width" value="1128" />
     <option name="height" value="772" />
   </component>
@@ -86,17 +94,25 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="simple_twitter_bot" />
+              <option name="myItemId" value="ds-projects" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ds-projects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="simple_twitter_bot" />
+              <option name="myItemId" value="ds-projects" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="simple_twitter_bot" />
+              <option name="myItemId" value="ds-projects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NLP" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -107,7 +123,12 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/github_repos/simple_twitter_bot" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$USER_HOME$/github_repos/ds-projects/twitter_bots" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.tweet_reply_bot">
     <configuration default="false" name="tweet_reply_bot" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -117,12 +138,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/github_repos/simple_twitter_bot" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="simple_twitter_bot" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tweet_reply_bot.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/github_repos/simple_twitter_bot/tweet_reply_bot.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -272,7 +293,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="51" y="47" width="1128" height="772" extended-state="0" />
+    <frame x="60" y="37" width="1128" height="772" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24932249" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -310,7 +331,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tweet_reply_bot.py">
+    <entry file="file://$USER_HOME$/github_repos/ds-projects/twitter_bots/tweet_reply_bot.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -320,7 +341,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tweet_reply_bot.py">
+    <entry file="file://$USER_HOME$/github_repos/ds-projects/twitter_bots/tweet_reply_bot.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -330,7 +351,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tweet_reply_bot.py">
+    <entry file="file://$USER_HOME$/github_repos/ds-projects/twitter_bots/tweet_reply_bot.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -340,20 +361,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$USER_HOME$/github_repos/ds-projects/twitter_bots/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="6" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tweet_reply_bot.py">
+    <entry file="file://$USER_HOME$/github_repos/ds-projects/twitter_bots/tweet_reply_bot.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.75524473">
-          <caret line="85" column="12" selection-start-line="85" selection-start-column="12" selection-end-line="85" selection-end-column="12" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="86" column="12" selection-start-line="86" selection-start-column="12" selection-end-line="86" selection-end-column="12" />
           <folding>
             <element signature="e#31#44#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/github_repos/ds-projects/NLP/spacy_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
